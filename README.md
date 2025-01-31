@@ -1,1 +1,2 @@
-# Pelican_method
+# Pelican Method
+
